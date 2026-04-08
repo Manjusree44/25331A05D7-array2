@@ -1,6 +1,8 @@
 
+#include<stdio.h>
 int main(){
 int a[10][10], i,j, rows, cols;
+printf(“25331a05d7\n”);
 printf("enter the rows and colms");
 scanf("%d %d", &rows, &cols);
 for(i= 0; i < rows; i++){
@@ -17,3 +19,4 @@ printf("\n");
 }
 return 0;
 }
+
